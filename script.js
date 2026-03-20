@@ -164,12 +164,12 @@ const customEvents2082 = {
     "चैत": [
         { day: 11, description: "Annual Exam" },
         { day: 12, description: "Annual Exam" },
+        { day: 13, description: "Annual Exam" },
+        { day: 14, description: "Annual Exam" },
         { day: 15, description: "Annual Exam" },
         { day: 16, description: "Annual Exam" },
         { day: 17, description: "Annual Exam" },
         { day: 18, description: "Annual Exam" },
-        { day: 19, description: "Annual Exam" },
-        { day: 20, description: "Annual Exam" },
         { day: 30, description: "Result Distribution" }
     ]
 };
